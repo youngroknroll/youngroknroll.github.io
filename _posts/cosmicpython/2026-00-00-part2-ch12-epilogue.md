@@ -1,5 +1,5 @@
 ---
-title: "제2부: CQRS, 의존성 주입, 그리고 에필로그"
+title: "Cosmic Python 제2부: CQRS, 의존성 주입, 그리고 에필로그"
 description: "Cosmic Python Part 2 - 읽기/쓰기 분리, 의존성 주입으로 아키텍처를 완성하고, 현실 프로젝트에 적용하는 방법까지"
 date: 2026-02-13 10:00:00 +0900
 categories: [CS, Common]
