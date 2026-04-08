@@ -1,7 +1,7 @@
 ---
 title: "AI 시대에 개발자는 사라지는가, 아니면 더 높은 레이어로 이동하는가"
 description: "AI가 코드를 생성하는 시대에 개발자의 역할은 정말 축소되는가. 코딩과 소프트웨어 엔지니어링을 구분하고, 앞으로 더 중요해질 개발자의 역할을 정리한다."
-date: 2026-03-28 20:00:00 +0900
+date: 2026-04-06 20:00:00 +0900
 categories: [Common, AI Software Engineering]
 tags: [ai, developer, software-engineering, communication, backend]
 ---
